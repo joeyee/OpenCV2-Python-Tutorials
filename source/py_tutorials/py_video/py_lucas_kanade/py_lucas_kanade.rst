@@ -15,7 +15,7 @@ In this chapter,
 Optical Flow
 ================
 
-Optical flow is the pattern of apparent motion of image objects between two consecutive frames caused by the movemement of object or camera. It is 2D vector field where each vector is a displacement vector showing the movement of points from first frame to second. Consider the image below (Image Courtesy: `Wikipedia article on Optical Flow <http://en.wikipedia.org/wiki/Optical_flow>`_). 
+Optical flow is the pattern of apparent motion of image objects between two consecutive frames caused by the movement of object or camera. It is 2D vector field where each vector is a displacement vector showing the movement of points from first frame to second. Consider the image below (Image Courtesy: `Wikipedia article on Optical Flow <http://en.wikipedia.org/wiki/Optical_flow>`_). 
 
 
     .. image:: images/optical_flow_basic1.jpg
